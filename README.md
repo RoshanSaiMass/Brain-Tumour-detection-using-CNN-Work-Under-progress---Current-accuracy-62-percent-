@@ -35,7 +35,7 @@ The dataset consists of MRI brain scans categorized into different tumor classes
 |--------|-------|
 | Project Status | 🚧 In Progress |
 | Best Validation Accuracy Achieved | **76%** |
-| Current Stable Accuracy | **62–63%** |
+| Current Stable Accuracy | **67–68%** |
 | Model Type | Custom CNN |
 | Input Images | MRI Scans |
 
